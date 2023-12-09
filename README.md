@@ -8,4 +8,4 @@ For the circular ensembles, the following package has been used :  https://sciki
 
 Codes coming up : Bures-Hall ensemble, the spectral form factors (SFF) and Dissipative (DSFF) , quantum kicked rotor, quantum kicked top and their dissipative versions. 
 
-If you find these codes helpful, please mention me and if would like some other codes in RMT, something frequently used or would like to contribute, I can be reached at Ayana.Sarkar@usherbrooke.ca. 
+If you find these codes helpful, please mention me and this repo. If you would like to have some other codes in RMT, some other frequently used techniques or would like to contribute to these developments, I can be reached at Ayana.Sarkar@usherbrooke.ca. 
