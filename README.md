@@ -2,6 +2,8 @@
 This repo contains certain measures from random matrix theory primarily used in the study of spectral fluctuations of diverse quantum systems.
 We have the normal or standard ratios of adjacent level spacings (NSR) and the complex spacing ratios (CSR). The level density and NSR of real and complex Gaussian and Wishart ensembles along with the CSR, NSR and level density of the circular ensembles. Some of the visualization tool for the results have also been provided. However they can always be improved and made better and better according to the paper/presentation. 
 
+Codes for the Spectral Form Factor (with polynomial unfolding) is also given. 
+
 Codes for the Dissipative Spectral Form Factor is also up for the GinOE and the GinUE and their crossover region. 
 
 Code for the Chirikov Standard Map corresponding to the http://www.scholarpedia.org/article/Chirikov_standard_map
